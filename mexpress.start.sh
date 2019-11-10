@@ -1,0 +1,1 @@
+docker run --network some-network -e ME_CONFIG_MONGODB_SERVER=api-recy-mongo -p 8081:8081 mongo-express

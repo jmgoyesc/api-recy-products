@@ -1,0 +1,1 @@
+docker run --name api-recy-mongo -d -p27017:27017 mongo:4.2.1
